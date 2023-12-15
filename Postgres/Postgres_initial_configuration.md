@@ -5,7 +5,7 @@
 step 1: Install postgresql in local
 
 ```
-sudo pacman -Syu postgresql
+sudo pacman -S postgresql
 ```
 
 step 2: switch to postgres user
