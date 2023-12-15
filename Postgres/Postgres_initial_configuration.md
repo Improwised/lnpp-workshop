@@ -29,7 +29,7 @@ systemctl start postgresql.service
 step 5: create superuser
 
 ```
-createuser -S devarshi.trivedi
+createuser -S username
 ```
 
 step 6: create database
