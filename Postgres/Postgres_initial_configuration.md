@@ -45,6 +45,7 @@ step 7: go to watch_time
 ```
 psql -d myDatabaseName
 ```
+<br/>
 
 ### Extras
 
