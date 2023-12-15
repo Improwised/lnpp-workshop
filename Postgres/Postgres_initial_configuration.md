@@ -61,7 +61,7 @@ It means: "Become the 'postgres' user as if you just logged in, giving you a cle
 
 This can be handy when you need to perform actions with the permissions and environment of another user, in this case, "postgres".
 ```
-
+<br />
 ### Links
 
 Arch Linux →  [https://wiki.archlinux.org/title/PostgreSQL](https://wiki.archlinux.org/title/PostgreSQL)
