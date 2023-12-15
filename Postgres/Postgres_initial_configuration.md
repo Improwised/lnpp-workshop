@@ -43,7 +43,7 @@ step 7: go to watch_time
 **************************************************psql is postgresql client**************************************************
 
 ```
-psql -d myDatabaseName
+psql -d watch_time
 ```
 <br/>
 
