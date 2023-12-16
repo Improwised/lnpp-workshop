@@ -47,8 +47,6 @@ Now let's add some data to our watch_time
 INSERT INTO watch_list (name, genre, watched)
 VALUES ('Pirates of The Carrabian', 'Adventure', FALSE);
 ```
-
-Enter minimum 3 values
 <br/>
 
 ### Command 3: Updation
