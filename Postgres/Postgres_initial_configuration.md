@@ -26,24 +26,15 @@ step 4 : start postgresql services
 systemctl start postgresql.service
 ```
 
-step 5: create superuser
+step 5: create user with database creation access
 
 ```
-createuser -S username
+createuser -d username
 ```
 
-step 6: create database
-
+step 7: Exit
 ```
-createdb watch_time
-```
-
-step 7: go to watch_time
-
-**************************************************psql is postgresql client**************************************************
-
-```
-psql -d watch_time
+exit
 ```
 <br/>
 
