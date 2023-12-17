@@ -30,7 +30,7 @@
 - It should containe id, name and genre
 - Exercise should be done in index.php file
 
-## Exercise - 4 (Looping) 
+### Exercise - 4 (Looping) 
 - Rename movie array to movies and make it as array of associative array like movie.
 - Loop through movies using foreach and see it's effect
 - Exercise should be done in index.php
