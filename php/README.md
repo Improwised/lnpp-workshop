@@ -34,3 +34,10 @@
 - Rename movie array to movies and make it as array of associative array like movie.
 - Loop through movies using foreach and see it's effect
 - Exercise should be done in index.php
+
+### Exercise -5 (Function)
+- Exercise should be done in back/greet.php
+- Write greet() function
+- It will echo alert message in script tags
+- Uncomment the greet in request handlers
+- Try to click out greet button in home page
